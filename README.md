@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammad-Rajabi
 - 👀 I’m interested in Mobile Apps Development
-- 🌱 I’m currently learning flutter
+- 🌱 Constantly learning more topics in Flutter
 
 
 <!---
